@@ -14,5 +14,5 @@ O jogador deve inserir palpites até acertar, recebendo dicas do sistema:
 ---
 
 ##  Tecnologias Utilizadas
-* Python 
+* Python 3.14
 * Biblioteca "random" (nativa do Python)
