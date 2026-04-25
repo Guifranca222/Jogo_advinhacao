@@ -1,4 +1,4 @@
-Jogo do 0 a 100
+# Jogo do 0 a 100
 Um jogo de adivinhação desafiador desenvolvido em Python. O objetivo é descobrir o número secreto escolhido pelo computador dentro de um limite de tentativas.
 
 ---
