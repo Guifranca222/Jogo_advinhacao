@@ -24,7 +24,7 @@ Derrota: Se atingir 10 tentativas sem sucesso, o jogo revela o número secreto e
 ---
 
 Tecnologias Utilizadas
-Python 3.x
+Python 3.14
 Biblioteca random: Para geração do número aleatório.
 
 ---
